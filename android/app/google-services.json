@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "10209071228",
+    "firebase_url": "https://km-recipes.firebaseio.com",
+    "project_id": "km-recipes",
+    "storage_bucket": "km-recipes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10209071228:android:ab716a069858a13a2bf9f9",
+        "android_client_info": {
+          "package_name": "com.recipesapp.recipe-app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10209071228-lmgvj4tmf0ejl5uhjod2l4oqgl07aelb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipesapp.recipe-app",
+            "certificate_hash": "e3b24d05639983a9523fd434d1638efdbc730ae8"
+          }
+        },
+        {
+          "client_id": "10209071228-tber19imligeinsc50jrtqk4ifh4o7b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbAXDj9YP3zLqLJ3Izh_bdzehSMzHm1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10209071228-tber19imligeinsc50jrtqk4ifh4o7b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
